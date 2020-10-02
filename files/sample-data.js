@@ -1,0 +1,19 @@
+ var sample_data = {
+                "baglar":"108",
+                "bismil":"148",
+                "cermik":"100",
+                "cinar":"129",
+                "cungus":"170",
+                "dicle":"192",
+                "egil":"135",
+                "ergani":"151",
+                "hani":"197",
+                "hazro":"133",
+                "kayapinar":"105",
+                "kocakoy":"165",
+                "kulp":"118",
+                "lice":"165",
+                "silvan":"192",
+                "sur":"103",
+                "yenisehir":"184"
+            };
