@@ -3,7 +3,7 @@ jVectorMap-Diyarbakir
 
 jVectorMap ile hazırlanmış Diyarbakir iline ait eklentidir.
 
-![Görünümü](https://github.com/numanturle/jVectorMap-diyarbakir/blob/master/files/diyarbakir.jpg?raw=true)
+!["Görünüm"](https://github.com/numanturle/jVectorMap-diyarbakir/blob/main/files/diyarbakir.jpg?raw=true)
 
 
 ```javascript
